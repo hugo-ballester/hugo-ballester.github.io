@@ -1,3 +1,7 @@
 # Build settings
 markdown: kramdown
 theme: benbalter/retlab
+
+title: Hugo''s homepage
+
+description: Hugo''s homepage
